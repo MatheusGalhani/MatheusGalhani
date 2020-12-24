@@ -51,6 +51,14 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://material-ui.com/static/logo.png" alt="Material-UI"/></code>
 
+
+**IDE**
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" alt="VS Code"/></code>
+<code><img height="32" src="https://img2.gratispng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg" alt="PyCharm"/></code>
+<code><img height="32" src="https://cdn.imgbin.com/23/4/0/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom"/></code>
+
+
 **Utilities**
 
 <code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
@@ -70,13 +78,11 @@
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" alt="Teams"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/skype-2752073-2284890.png" alt="Skype"/></code>
 
-
 <br/>
 
 ## Coding Activity
 
 <br/>
-
 
 <p align="center">
   <a href="https://badges.pufler.dev">
