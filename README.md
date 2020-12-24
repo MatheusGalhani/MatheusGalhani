@@ -55,8 +55,8 @@
 **IDE**
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" alt="VS Code"/></code>
-<code><img height="32" src="https://img2.gratispng.com/20180508/qgq/kisspng-pycharm-integrated-development-environment-jetbrai-5af1dbdd8c9384.4990450515257999015758.jpg" alt="PyCharm"/></code>
-<code><img height="32" src="https://cdn.imgbin.com/23/4/0/imgbin-atom-source-code-editor-text-editor-logo-visual-studio-code-design-NxGq2hxzHBa5NzxUUkNLyyhMP.jpg" alt="Atom"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/pycharm-1175008.png" alt="PyCharm"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/atom-2749232-2284622.png" alt="Atom"/></code>
 
 
 **Utilities**
