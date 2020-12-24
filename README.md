@@ -1,6 +1,6 @@
 # Hi, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media3.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif?cid=ecf05e47kzw1tp7uzhpxaxmajujw185byem5162w2eeze6qq&rid=giphy.gif" alt="" />
+<img align="right" width="40%" src="https://media3.giphy.com/media/kdiLau77NE9Z8vxGSO/giphy.gif?cid=ecf05e47kzw1tp7uzhpxaxmajujw185byem5162w2eeze6qq&rid=giphy.gif" alt="Cyber" />
 
 ### Welcome to my page!
 <p>
@@ -65,3 +65,14 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 <br/>
+
+## Coding Activity
+
+<br/>
+
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true" alt="Visitors badge" />
+   </a>
+</p>
