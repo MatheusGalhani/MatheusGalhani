@@ -86,6 +86,6 @@
 
 <p align="center">
   <a href="https://badges.pufler.dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true&theme=react" alt="Visitors badge" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true&theme=react&cache_seconds=1800" alt="Visitors badge" />
    </a>
 </p>
