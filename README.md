@@ -76,6 +76,7 @@
 
 **Business Tools**
 
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" title="Jira"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/notion-1693557-1442598.png" alt="Notion" title="Notion"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello" title="Trello"/></code>
 <code><img height="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-512.png" alt="Slack" title="Slack"/></code>
