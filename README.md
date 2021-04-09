@@ -38,7 +38,7 @@
 **Application and Data**
 
 <code><img height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" alt="Python" title="Python"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/django-2-282855.png" alt="Django" title="Django"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/pi/370799/svg/django-logo-icon-png-svg.png" alt="Django" title="Django"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" alt="Rest" title="Rest"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" title="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" title="Java"/></code>
@@ -55,9 +55,11 @@
 
 **IDE**
 
+<code><img height="32" src="https://iconape.com/wp-content/files/ei/371356/svg/371356.svg" alt="PyCharm" title="Pycharm"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/datagrip-icon.png" alt="DataGrip" title="DataGrip"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/mu/371639/svg/371639.svg" alt="WebStorm" title="WebStorm"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/xe/370573/svg/atom-logo-icon-png-svg.png" alt="Atom" title="Atom"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/visual-studio-code-1868941-1583105.png" alt="VS Code" title="VS Code"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/pycharm-1175008.png" alt="PyCharm" title="Pycharm"/></code>
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/atom-2749232-2284622.png" alt="Atom" title="Atom"/></code>
 
 
 **Utilities**
@@ -70,6 +72,7 @@
 <code><img height="32" src="https://cdn3.iconfinder.com/data/icons/inficons/512/github.png" alt="GitHub" title="GitHub"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"/></code>
 <code><img height="32" src="https://img.utdstc.com/icon/c2f/773/c2f7733df6524599afea694769062bc12d389fb4178f8be7b644c5e802fbbc17:200" alt="VirtualBox" title="VirtualBox"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" alt="Docker" title="Docker"/></code>
 
 **Business Tools**
 
@@ -78,6 +81,12 @@
 <code><img height="32" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Slack_colored_svg-512.png" alt="Slack" title="Slack"/></code>
 <code><img height="32" src="https://cdn0.iconfinder.com/data/icons/logos-microsoft-office-365/128/Microsoft_Office-10-512.png" alt="Teams" title="Teams"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/skype-2752073-2284890.png" alt="Skype" title="Skype"/></code>
+
+
+**Operational System**
+
+<code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/apple-30th-anniversary-logo.png" alt="Mac OS" title="Mac OS"/></code>
+<code><img height="32" src="https://iconape.com/wp-content/files/wj/371056/svg/371056.svg" alt="Postman" title="Postman"/></code>
 
 <br/>
 
