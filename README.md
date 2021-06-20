@@ -42,7 +42,7 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-512-thumb/rest-api-1-570529.png" alt="Rest" title="Rest"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" title="C"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" title="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" title="Javascript"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-3628858-3029998.png" alt="Javascript" title="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-3629120-3030260.png" alt="Typescript" title="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" title="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="REact"/></code></code>
