@@ -33,6 +33,17 @@
 
 <br/><br/>
 
+## Coding Activity
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/MatheusGalhani">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGalhani&layout=compact&langs_count=7&theme=react&cache_seconds=1800"/>
+</div>
+
+
 ## My Development Stack
 
 **Application and Data**
@@ -90,15 +101,3 @@
 
 <code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/apple-30th-anniversary-logo.png" alt="Mac OS" title="Mac OS"/></code>
 <code><img height="32" src="https://iconape.com/wp-content/files/wj/371056/svg/371056.svg" alt="Postman" title="Postman"/></code>
-
-<br/>
-
-## Coding Activity
-
-<br/>
-
-<p align="center">
-  <a href="https://badges.pufler.dev">
-      <img src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true&theme=react&cache_seconds=1800" alt="Visitors badge" />
-   </a>
-</p>
