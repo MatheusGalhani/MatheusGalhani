@@ -37,7 +37,7 @@
 
 <br/>
 
-<div align="center">
+<div>
   <a href="https://github.com/MatheusGalhani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusGalhani&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=1800"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGalhani&layout=compact&langs_count=7&theme=react&cache_seconds=1800"/>
