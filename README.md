@@ -5,7 +5,7 @@
 ### Welcome to my page!
 <p>
   I'm Matheus Galhani, Fullstack developer and System Analyst from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
+  <img width="24" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/brazil-3547947-2968967.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
