@@ -24,11 +24,11 @@
 ### Where to find me:
 
 <a href="https://www.linkedin.com/in/matheus-galhani-0767a78b/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
+  <code><img alt="My linkedin" width="28" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-162-498418.png" /></code>
 </a>
 
 <a href="mailto:matheus.galhani@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
+  <code><img alt="My e-mail" width="32" src="https://cdn.iconscout.com/icon/free/png-512/mail-781-461597.png" /></code>
 </a>
 
 <br/><br/>
@@ -55,15 +55,13 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" title="Java"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-3628858-3029998.png" alt="Javascript" title="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-3629120-3030260.png" alt="Typescript" title="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" title="Nodejs"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/node-js-3521610-2945054.png" alt="Nodejs" title="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="REact"/></code></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB" title="MongoDB"/></code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB" title="MongoDB"/></code>
 <code><img height="32" src="https://img.icons8.com/plasticine/344/oracle-pl-sql--v3.png" alt="PL/SQL" title="PL/SQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL" title="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" title="Css"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-<code><img height="32" src="https://material-ui.com/static/logo.png" alt="Material-UI" title="Material-UI"/></code>
 
 
 **IDE**
