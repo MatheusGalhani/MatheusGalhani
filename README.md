@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm <a href="https://www.matheusgalhani.com.br/" target="_blank">Matheus Galhani</a>, Fullstack developer and System Analyst from 
+  I'm Matheus Galhani, Fullstack developer and System Analyst from 
   <img width="24" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/brazil-3547947-2968967.png" alt="Brazil" />
   <b>Brazil</b>.
 </p>
@@ -22,6 +22,10 @@
 - 🏆 I love workout;
 
 ### Where to find me:
+
+<a href="https://www.matheusgalhani.com.br/">
+  <code><img alt="My portfolio" width="28" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" /></code>
+</a>
 
 <a href="https://www.linkedin.com/in/matheus-galhani-0767a78b/">
   <code><img alt="My linkedin" width="28" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-162-498418.png" /></code>
