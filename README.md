@@ -103,3 +103,8 @@
 
 <code><img height="32" src="https://iconape.com/wp-content/png_logo_vector/apple-30th-anniversary-logo.png" alt="Mac OS" title="Mac OS"/></code>
 <code><img height="32" src="https://iconape.com/wp-content/files/wj/371056/svg/371056.svg" alt="Windows" title="Windows"/></code>
+
+## Total visitors
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/MatheusGalhani/count.svg" />
+ </p>
