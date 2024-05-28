@@ -21,19 +21,6 @@
 
 - 🏆 I love workout;
 
-### Where to find me:
-
-<a href="https://www.matheusgalhani.com.br/">
-  <code><img alt="My portfolio" width="28" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" /></code>
-</a>
-
-<a href="https://www.linkedin.com/in/matheus-galhani-0767a78b/">
-  <code><img alt="My linkedin" width="28" src="https://cdn.iconscout.com/icon/free/png-512/linkedin-162-498418.png" /></code>
-</a>
-
-<a href="mailto:matheus.galhani@hotmail.com">
-  <code><img alt="My e-mail" width="32" src="https://cdn.iconscout.com/icon/free/png-512/mail-781-461597.png" /></code>
-</a>
 
 <br/><br/>
 
