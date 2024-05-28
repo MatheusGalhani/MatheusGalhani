@@ -21,8 +21,7 @@
 
 - 🏆 I love workout;
 
-
-<br/><br/>
+<br/>
 
 ## Coding Activity
 
